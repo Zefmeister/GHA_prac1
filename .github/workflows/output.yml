@@ -1,7 +1,7 @@
 name: output event details
 on: issues
 jobs:
-  output event:
+  output_event:
     runs-on: ubuntu-latest
     steps:
       - name: Output Github context
